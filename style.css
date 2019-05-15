@@ -1,0 +1,59 @@
+.banner-area {
+    background-image: url("img/couverture-du-livre-CONTE-ConvertImage.jpg");
+    width: 100%; 
+}
+
+header {
+   background-color: antiquewhite;
+}
+
+header .main-menubar nav a {
+    color: burlywood;
+   font-weight: bold;
+}
+
+.banner-content p {
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.feature-area .container h2 {
+    margin-top: 30px;
+}
+
+.feature-area h5 {
+    font-weight: bold;
+    ;
+
+}
+
+.service-area h2 {
+    margin-top: 30px;
+}
+
+.service-area h4 {
+    font-size: 20px;
+    
+}
+
+.service-area .text-left {
+    text-align: right;
+    margin-left: 1.5%;
+}
+
+.service-area .quote-left .text-right{
+    text-align: left!important;
+    margin-left: 1.5%;
+}
+
+h5 {
+    margin-top: 15px;
+}
+
+.text-left {
+    margin-left: 1.5%;
+}
